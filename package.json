@@ -1,0 +1,27 @@
+{
+  "name": "knearest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarjmh/k-nearest-neighbor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarjmh/k-nearest-neighbor/issues"
+  },
+  "homepage": "https://github.com/omarjmh/k-nearest-neighbor#readme",
+  "devDependencies": {
+    "babel-eslint": "^5.0.0-beta6",
+    "eslint": "^1.10.3"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
